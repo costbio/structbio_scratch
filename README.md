@@ -1,4 +1,4 @@
-# structbio_workflows
+# structbio_scratch
 
 This is a repository of structural bioinformatics workflows, designed for tasks related to topics such as structure-based drug design, molecular dynamics simulation setup and analysis.
 
